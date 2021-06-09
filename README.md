@@ -10,6 +10,7 @@
 * Send packet to get the remote PC's mac address.
 * Send ARP packet consistently forever enen if the net stuffed.
 * arp -n
+* Total length of ethernet head plus arp packet is 42 octets.
 
 # Refrences
 * https://en.wikipedia.org/wiki/Address_Resolution_Protocol
