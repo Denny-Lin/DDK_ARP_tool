@@ -8,7 +8,7 @@
 # Behaviors
 * If the MAC address is not found in the ARP table, then...
 * Send packet to get the remote PC's mac address.
-* Send ARP packet consistently forever enen if the net stuffed.
+* Send ARP packet consistently forever even if the net stuffed.
 * arp -n
 * Total length of ethernet head plus arp packet is 42 octets.
 * Put this particular format of data to a buffer and send it.
