@@ -11,6 +11,8 @@
 * Send ARP packet consistently forever enen if the net stuffed.
 * arp -n
 * Total length of ethernet head plus arp packet is 42 octets.
+* Put this particular format of data to a buffer and send it.
+* So easy.
 
 # Refrences
 * https://en.wikipedia.org/wiki/Address_Resolution_Protocol
