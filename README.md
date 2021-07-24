@@ -16,3 +16,5 @@
 
 # Refrences
 * https://en.wikipedia.org/wiki/Address_Resolution_Protocol
+* https://lngost.github.io/pages/articles/tech/ARP-Packet-By-c/arp-packet-by-c.html
+* ...
